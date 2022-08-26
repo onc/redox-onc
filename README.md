@@ -5,7 +5,7 @@ My redox keyboard layout.
 Key features:
 
 - Simple
-- A modern space cadet bindings
+- [A modern space cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/) bindings
   - Left `Shift` => Left `Shift` or `(` when pressed on its own
   - Right `Shift` => Right `Shift` or `)` when pressed on its own
   - `Caps Lock` => `Ctrl` or `Esc` when pressed on its own 
