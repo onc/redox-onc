@@ -2,6 +2,15 @@
 
 My redox keyboard layout.
 
+Key features:
+
+- Simple
+- A modern space cadet bindings
+  - Left `Shift` => Left `Shift` or `(` when pressed on its own
+  - Right `Shift` => Right `Shift` or `)` when pressed on its own
+  - `Caps Lock` => `Ctrl` or `Esc` when pressed on its own 
+- German umlauts (ä, ü, ö, ß) using Mode 1 + (a, u, o, s)
+
 ![](https://github.com/onc/redox-onc/blob/main/layout/onc_layer_0.png)
 ![](https://github.com/onc/redox-onc/blob/main/layout/onc_layer_1.png)
 
