@@ -2,6 +2,9 @@
 
 My redox keyboard layout.
 
+![](https://github.com/onc/redox-onc/blob/main/layout/onc_layer_0.png)
+![](https://github.com/onc/redox-onc/blob/main/layout/onc_layer_1.png)
+
 ## Setup
 
 - Install qmk as described [here](https://docs.qmk.fm/#/newbs_getting_started).
